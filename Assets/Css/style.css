@@ -7,7 +7,7 @@ body {
 header {
   background-color: #3498db;
   color: white;
-  padding: 10px;
+  padding: 10px 20px;
   text-align: center;
 }
 
@@ -27,7 +27,7 @@ a:hover{
 
 .foto{
   padding-top: 5px;
-  height: 500px;
+  height: 100vh;
 }
 
 nav a {
